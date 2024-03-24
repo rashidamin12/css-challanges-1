@@ -1,0 +1,50 @@
+body{
+    text-align:center;
+}
+content-wrapper{
+    width:570px;
+}
+body{
+    font-family:'Roboto',sans-serif;
+}
+h1{
+    font-size:60px;
+    font-weight:normal;
+}
+h2{
+    font-size:40px;
+    font-weight:normal;
+}
+h3{
+    font-size:30px;
+    font-weight:bold;
+}
+body{
+    font-size:21px
+}
+.small-text{
+    font-size:16px;
+}
+h1 {
+    font-size: 80px;
+}
+
+h2 {
+    font-size: 60px;
+}
+
+.bold-text {
+    display: block; 
+    font-weight: bold; 
+}
+
+.custom-link {
+    color: #99D930; 
+}
+
+.custom-link:hover {
+    color: #131313; 
+}
+
+
+
